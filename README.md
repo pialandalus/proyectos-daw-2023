@@ -17,3 +17,12 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 | Alumno Alumno  | Titulo  | [<img src="img/pdf.png">](pdf/memoria.pdf)  | [<img src="img/pdf.png">](pdf/presentación.pdf)  | [<img src="img/github.png">](https://github.com/)  | [<img src="img/youtube.png">](https://www.youtube.com)  |
 
 </div>
+
+<footer>
+  <p>&copy; Ciclos Formativos (Semipresencial) 2023 IES ALÁNDALUS</p>
+  <ul>
+    <li><a href="https://iesalandalus.org/joomla/">Web Instituto</a></li>
+    <li><a href="https://iesalandalus.org/joomla/index.php/fp-semipresencial">Semipresencial</a></li>
+    <li><a href="https://www.instagram.com/alandaluscda/">Instagram</a></li>
+  </ul>
+</footer>
