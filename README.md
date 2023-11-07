@@ -1,3 +1,5 @@
+<img src="img/LogoIESAlndalus.png">
+
 # Proyectos Integrados DAW-SP 2023-24
 
 En este repositorio se encuentra centralizada toda la información relativa a los Proyectos de Desarrollo de Aplicaciones Web en modalidad semipresencial del IES Al-Ándalus (proyectos de fin de ciclo), en la convocatoria del año 2023.
