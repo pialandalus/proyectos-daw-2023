@@ -36,11 +36,8 @@ Se deberá enseñar una demostración práctica (demo) de la aplicación web en 
 
 La presentación debe tener, como mínimo, el siguiente contenido:
 
-* Introducción a la empresa. Se debe hacer en común cuando en la misma empresa hay varios alumnos.
-* Tareas desempeñadas con temporalización por semanas.
-* Herramientas utilizadas.
-* Conocimientos adquiridos por cada módulo profesional.
-* Valoración de la experiencia dual por parte del alumno.
+* Ejemplo1
+* Ejemplo2
 
 ## :bookmark_tabs: Formato de la presentación
 La presentación debe seguir las pautas explicadas en la [wiki](https://github.com/pialandalus/proyectos-daw-2023/wiki) de este repositorio.
